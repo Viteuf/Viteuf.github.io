@@ -1,16 +1,21 @@
-<html>
-<body style="color: white;">
-		
-		<style>
-
 body {
-
   background-image: url("https://static.vecteezy.com/system/resources/previews/020/028/065/original/snt-abstract-technology-circle-setting-logo-design-on-black-background-snt-creative-initials-letter-logo-concept-vector.jpg");
-
-  background-size: cover;
-
-  background-position: center;
-
+ font-family: Columbus, serif;
+ font-size: 100%
 }
 
-</style>
+h1{
+font-size: 250%;
+color: white;
+text-align: center;
+}
+
+h2{
+font-size:150%;
+color: white;
+padding-left: 15px;
+}
+
+p{
+color: white;
+}
